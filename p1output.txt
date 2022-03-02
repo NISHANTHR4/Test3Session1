@@ -1,1 +1,9 @@
+gcc -g p1original.c
+ ./a.out
+enter the 2 num and den
+1
+2
+1
+4
+The sum of 2 fractions 1/2 + 1/4 = 6/8 
 
