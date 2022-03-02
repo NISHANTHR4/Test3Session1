@@ -1,1 +1,6 @@
-
+ gcc -g p3original.c
+ ./a.out
+Enter the values of n and r
+5
+2
+The nCr of 5C2 is 10
